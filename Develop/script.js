@@ -44,7 +44,7 @@ $(function() {
         localStorage.setItem(time, value)
     });
 
-
+    //Update time blocks color
     var updateColor = function() {
         $('.time-block').each(function(index, hour) {
             var lineHour = parseInt(hour.id.split('-')[1])
@@ -62,10 +62,5 @@ $(function() {
         })
     }
     updateColor();
-
-
-    // left to do
-    //1- set local storage items and save with click
-    //2-color coded for loop for past present future
 
 });
