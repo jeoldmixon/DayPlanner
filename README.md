@@ -1,4 +1,4 @@
-![Justin's Day Planner](./assets/JustinDayPlanner.png)
+![Justin's Day Planner](./Assets/JustinDayPlanner.png)
 
 Repo: https://github.com/jeoldmixon/DayPlanner
 
